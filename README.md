@@ -32,7 +32,7 @@
 
 ## How the website looks like
 
----
+
 ### Project -01
 ![Project- 1](/projects/project-1.png)
 
